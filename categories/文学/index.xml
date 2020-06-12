@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - 寒蝉の博客</title>
-        <link>http://qnfnypen.github.io/posts/</link>
-        <description>所有文章 | 寒蝉の博客</description>
+        <title>文学 - 分类 - 寒蝉の博客</title>
+        <link>http://qnfnypen.github.io/categories/%E6%96%87%E5%AD%A6/</link>
+        <description>文学 - 分类 - 寒蝉の博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1256668725@qq.com (寒蝉)</managingEditor>
-            <webMaster>1256668725@qq.com (寒蝉)</webMaster><lastBuildDate>Fri, 04 May 1900 09:58:53 &#43;0800</lastBuildDate><atom:link href="http://qnfnypen.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>1256668725@qq.com (寒蝉)</webMaster><lastBuildDate>Fri, 04 May 1900 09:58:53 &#43;0800</lastBuildDate><atom:link href="http://qnfnypen.github.io/categories/%E6%96%87%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
     <title>少年中国说</title>
     <link>http://qnfnypen.github.io/write-to-teen/</link>
     <pubDate>Fri, 04 May 1900 09:58:53 &#43;0800</pubDate>
