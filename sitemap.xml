@@ -2,9 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://qnfnypen.github.io/categories/</loc><lastmod>2020-06-01T09:58:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://qnfnypen.github.io/posts/</loc><lastmod>2020-06-01T09:58:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://qnfnypen.github.io/</loc><lastmod>2020-06-01T09:58:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://qnfnypen.github.io/write-to-teen/</loc><lastmod>2020-06-01T09:58:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://qnfnypen.github.io/categories/%E6%96%87%E5%AD%A6/</loc><lastmod>2020-06-01T09:58:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://qnfnypen.github.io/categories/</loc><lastmod>2020-06-01T09:58:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://qnfnypen.github.io/posts/</loc><lastmod>2020-06-01T09:58:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://qnfnypen.github.io/</loc><lastmod>2020-06-01T09:58:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://qnfnypen.github.io/about/</loc><lastmod>2020-06-01T09:58:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://qnfnypen.github.io/write-to-teen/</loc><lastmod>2020-06-01T09:58:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://qnfnypen.github.io/categories/%E6%96%87%E5%AD%A6/</loc><lastmod>2020-06-01T09:58:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>http://qnfnypen.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
