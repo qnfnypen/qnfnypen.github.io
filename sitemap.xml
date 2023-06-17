@@ -2,36 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qnfnypen.github.io/categories/</loc>
-    <lastmod>2023-06-17T16:25:33+08:00</lastmod>
-  </url><url>
     <loc>https://qnfnypen.github.io/</loc>
-    <lastmod>2023-06-17T16:25:33+08:00</lastmod>
+    <lastmod>2023-06-17T16:45:13+08:00</lastmod>
   </url><url>
     <loc>https://qnfnypen.github.io/posts/</loc>
-    <lastmod>2023-06-17T16:25:33+08:00</lastmod>
-  </url><url>
-    <loc>https://qnfnypen.github.io/tags/</loc>
-    <lastmod>2023-06-17T16:25:33+08:00</lastmod>
+    <lastmod>2023-06-17T16:45:13+08:00</lastmod>
   </url><url>
     <loc>https://qnfnypen.github.io/posts/study/test/</loc>
-    <lastmod>2023-06-17T16:25:33+08:00</lastmod>
-  </url><url>
-    <loc>https://qnfnypen.github.io/categories/%E5%88%86%E7%B1%BB1/</loc>
-    <lastmod>2023-06-17T16:25:33+08:00</lastmod>
-  </url><url>
-    <loc>https://qnfnypen.github.io/categories/%E5%88%86%E7%B1%BB2/</loc>
-    <lastmod>2023-06-17T16:25:33+08:00</lastmod>
+    <lastmod>2023-06-17T16:45:13+08:00</lastmod>
   </url><url>
     <loc>https://qnfnypen.github.io/posts/study/</loc>
-    <lastmod>2023-06-17T16:25:33+08:00</lastmod>
+    <lastmod>2023-06-17T16:45:13+08:00</lastmod>
   </url><url>
-    <loc>https://qnfnypen.github.io/tags/%E6%A0%87%E7%AD%BE1/</loc>
-    <lastmod>2023-06-17T16:25:33+08:00</lastmod>
-  </url><url>
-    <loc>https://qnfnypen.github.io/tags/%E6%A0%87%E7%AD%BE2/</loc>
-    <lastmod>2023-06-17T16:25:33+08:00</lastmod>
+    <loc>https://qnfnypen.github.io/categories/</loc>
   </url><url>
     <loc>https://qnfnypen.github.io/series/</loc>
+  </url><url>
+    <loc>https://qnfnypen.github.io/tags/</loc>
   </url>
 </urlset>
