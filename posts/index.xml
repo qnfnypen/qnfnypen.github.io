@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>所有文章 - 寒蝉の博客</title>
-        <link>http://qnfnypen.github.io/posts/</link>
-        <description>所有文章 | 寒蝉の博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1256668725@qq.com (寒蝉)</managingEditor>
-            <webMaster>1256668725@qq.com (寒蝉)</webMaster><lastBuildDate>Fri, 04 May 1900 09:58:53 &#43;0800</lastBuildDate><atom:link href="http://qnfnypen.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>少年中国说</title>
-    <link>http://qnfnypen.github.io/write-to-teen/</link>
-    <pubDate>Fri, 04 May 1900 09:58:53 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>http://qnfnypen.github.io/write-to-teen/</guid>
-    <description><![CDATA[少年中国说（节选） 《少年中国说》，我只查到是梁启超先生在1900年写的，我这里就假想是写于五四青年节的。 今之责任，不在他人，而全在我少年。 少]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Mofa&#39;s Blog</title>
+    <link>https://qnfnypen.github.io/posts/</link>
+    <description>Recent content in Posts on Mofa&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Jun 2023 16:04:13 +0800</lastBuildDate><atom:link href="https://qnfnypen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://qnfnypen.github.io/posts/study/test/</link>
+      <pubDate>Sat, 17 Jun 2023 16:04:13 +0800</pubDate>
+      
+      <guid>https://qnfnypen.github.io/posts/study/test/</guid>
+      <description>This is test </description>
+    </item>
+    
+  </channel>
 </rss>
