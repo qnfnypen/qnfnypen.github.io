@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Hugo Theme Stack</title>
+        <link>http://localhost:1313/ja/categories/</link>
+        <description>Recent content in Categories on Hugo Theme Stack</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ja/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>ドキュメント</title>
+            <link>http://localhost:1313/ja/categories/documentation/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/ja/categories/documentation/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/&#34; alt=&#34;Featured image of post ドキュメント&#34; /&gt;</description>
+        </item></channel>
+</rss>

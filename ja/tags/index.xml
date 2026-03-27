@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Hugo Theme Stack</title>
+        <link>http://localhost:1313/ja/tags/</link>
+        <description>Recent content in Tags on Hugo Theme Stack</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ja/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Gallery</title>
+            <link>http://localhost:1313/ja/tags/gallery/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/ja/tags/gallery/</guid>
+            <description></description>
+        </item><item>
+            <title>Photoswipe</title>
+            <link>http://localhost:1313/ja/tags/photoswipe/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/ja/tags/photoswipe/</guid>
+            <description></description>
+        </item><item>
+            <title>隐私</title>
+            <link>http://localhost:1313/ja/tags/%E9%9A%90%E7%A7%81/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/ja/tags/%E9%9A%90%E7%A7%81/</guid>
+            <description></description>
+        </item></channel>
+</rss>
