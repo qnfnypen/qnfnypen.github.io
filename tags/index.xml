@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 莫法的博客</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://qnfnypen.github.io/tags/</link>
         <description>Recent content in Tags on 莫法的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://qnfnypen.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Kubernetes</title>
-            <link>http://localhost:1313/tags/kubernetes/</link>
+            <link>https://qnfnypen.github.io/tags/kubernetes/</link>
             <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/tags/kubernetes/</guid>
+            <guid>https://qnfnypen.github.io/tags/kubernetes/</guid>
             <description></description>
         </item><item>
             <title>Gallery</title>
-            <link>http://localhost:1313/tags/gallery/</link>
+            <link>https://qnfnypen.github.io/tags/gallery/</link>
             <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/tags/gallery/</guid>
+            <guid>https://qnfnypen.github.io/tags/gallery/</guid>
             <description></description>
         </item><item>
             <title>Photoswipe</title>
-            <link>http://localhost:1313/tags/photoswipe/</link>
+            <link>https://qnfnypen.github.io/tags/photoswipe/</link>
             <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/tags/photoswipe/</guid>
+            <guid>https://qnfnypen.github.io/tags/photoswipe/</guid>
             <description></description>
         </item><item>
             <title>隐私</title>
-            <link>http://localhost:1313/tags/%E9%9A%90%E7%A7%81/</link>
+            <link>https://qnfnypen.github.io/tags/%E9%9A%90%E7%A7%81/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/tags/%E9%9A%90%E7%A7%81/</guid>
+            <guid>https://qnfnypen.github.io/tags/%E9%9A%90%E7%A7%81/</guid>
             <description></description>
         </item><item>
             <title>Css</title>
-            <link>http://localhost:1313/tags/css/</link>
+            <link>https://qnfnypen.github.io/tags/css/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/tags/css/</guid>
+            <guid>https://qnfnypen.github.io/tags/css/</guid>
             <description></description>
         </item><item>
             <title>Html</title>
-            <link>http://localhost:1313/tags/html/</link>
+            <link>https://qnfnypen.github.io/tags/html/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/tags/html/</guid>
+            <guid>https://qnfnypen.github.io/tags/html/</guid>
             <description></description>
         </item><item>
             <title>Markdown</title>
-            <link>http://localhost:1313/tags/markdown/</link>
+            <link>https://qnfnypen.github.io/tags/markdown/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/tags/markdown/</guid>
+            <guid>https://qnfnypen.github.io/tags/markdown/</guid>
             <description></description>
         </item><item>
             <title>Themes</title>
-            <link>http://localhost:1313/tags/themes/</link>
+            <link>https://qnfnypen.github.io/tags/themes/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/tags/themes/</guid>
+            <guid>https://qnfnypen.github.io/tags/themes/</guid>
             <description></description>
         </item></channel>
 </rss>

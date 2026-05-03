@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Mofa&#39;s blog</title>
-        <link>http://localhost:1313/en/tags/</link>
+        <link>https://qnfnypen.github.io/en/tags/</link>
         <description>Recent content in Tags on Mofa&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://qnfnypen.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Gallery</title>
-            <link>http://localhost:1313/en/tags/gallery/</link>
+            <link>https://qnfnypen.github.io/en/tags/gallery/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/gallery/</guid>
+            <guid>https://qnfnypen.github.io/en/tags/gallery/</guid>
             <description></description>
         </item><item>
             <title>Photoswipe</title>
-            <link>http://localhost:1313/en/tags/photoswipe/</link>
+            <link>https://qnfnypen.github.io/en/tags/photoswipe/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/photoswipe/</guid>
+            <guid>https://qnfnypen.github.io/en/tags/photoswipe/</guid>
             <description></description>
         </item><item>
             <title>Privacy</title>
-            <link>http://localhost:1313/en/tags/privacy/</link>
+            <link>https://qnfnypen.github.io/en/tags/privacy/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/privacy/</guid>
+            <guid>https://qnfnypen.github.io/en/tags/privacy/</guid>
             <description></description>
         </item><item>
             <title>Shortcodes</title>
-            <link>http://localhost:1313/en/tags/shortcodes/</link>
+            <link>https://qnfnypen.github.io/en/tags/shortcodes/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/shortcodes/</guid>
+            <guid>https://qnfnypen.github.io/en/tags/shortcodes/</guid>
             <description></description>
         </item><item>
             <title>Css</title>
-            <link>http://localhost:1313/en/tags/css/</link>
+            <link>https://qnfnypen.github.io/en/tags/css/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/css/</guid>
+            <guid>https://qnfnypen.github.io/en/tags/css/</guid>
             <description></description>
         </item><item>
             <title>Html</title>
-            <link>http://localhost:1313/en/tags/html/</link>
+            <link>https://qnfnypen.github.io/en/tags/html/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/html/</guid>
+            <guid>https://qnfnypen.github.io/en/tags/html/</guid>
             <description></description>
         </item><item>
             <title>Markdown</title>
-            <link>http://localhost:1313/en/tags/markdown/</link>
+            <link>https://qnfnypen.github.io/en/tags/markdown/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/markdown/</guid>
+            <guid>https://qnfnypen.github.io/en/tags/markdown/</guid>
             <description></description>
         </item><item>
             <title>Themes</title>
-            <link>http://localhost:1313/en/tags/themes/</link>
+            <link>https://qnfnypen.github.io/en/tags/themes/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/themes/</guid>
+            <guid>https://qnfnypen.github.io/en/tags/themes/</guid>
             <description></description>
         </item><item>
             <title>Diagrams</title>
-            <link>http://localhost:1313/en/tags/diagrams/</link>
+            <link>https://qnfnypen.github.io/en/tags/diagrams/</link>
             <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/diagrams/</guid>
+            <guid>https://qnfnypen.github.io/en/tags/diagrams/</guid>
             <description></description>
         </item><item>
             <title>Mermaid</title>
-            <link>http://localhost:1313/en/tags/mermaid/</link>
+            <link>https://qnfnypen.github.io/en/tags/mermaid/</link>
             <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/mermaid/</guid>
+            <guid>https://qnfnypen.github.io/en/tags/mermaid/</guid>
             <description></description>
         </item></channel>
 </rss>
